@@ -5,3 +5,4 @@ Pillow
 numpy
 Werkzeug
 gunicorn
+pandas
